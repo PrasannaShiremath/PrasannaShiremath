@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrasannaShiremath
-- 👀 I’m interested in ...Content creation
-- 🌱 I’m currently learning ...Elcetronics and Communication domain
-- 💞️ I’m looking to collaborate on ...Github,Linked in and Youtube
+- 👀 Interested in ...Content creation
+- 🌱 Currently learning ...Elcetronics and Communication domain
+- 💞️ Looking to collaborate on ...Github,Linked in and Youtube
 - 📫 How to reach me ...follow me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
